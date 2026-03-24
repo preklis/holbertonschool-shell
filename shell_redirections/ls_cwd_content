@@ -1,0 +1,10 @@
+total 32
+drwxrwxr-x 2 kali kali 4096 Mar 24 16:58 .
+drwxrwxr-x 6 kali kali 4096 Mar 24 16:52 ..
+-rwxrwxr-x 1 kali kali   28 Mar 24 16:53 0-hellofile
+-rwxrwxr-x 1 kali kali   35 Mar 24 16:54 1-lastlines
+-rwxrwxr-x 1 kali kali   35 Mar 24 16:54 2-firstlines
+-rwxrwxr-x 1 kali kali   40 Mar 24 16:57 3-third_line
+-rwxrwxr-x 1 kali kali   37 Mar 24 16:58 4-cwd_state
+-rw-rw-r-- 1 kali kali    0 Mar 24 16:58 ls_cwd_content
+-rw-rw-r-- 1 kali kali   43 Mar 24 16:53 README.md
